@@ -1,5 +1,4 @@
 requests
-os
 bs4
 random
 telebot
