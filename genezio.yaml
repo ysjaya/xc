@@ -1,0 +1,15 @@
+backend:
+    functions:
+        - entry: b3.py
+          handler: handler
+          name: serverless
+          path: .
+          type: aws
+    language:
+        name: python
+        packageManager: pip
+        runtime: python3.13.x
+    path: .
+name: xc
+region: us-east-1
+yamlVersion: 2
