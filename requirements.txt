@@ -1,3 +1,4 @@
+pycountry
 telebot
 requests
 bs4
