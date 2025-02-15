@@ -1,0 +1,9 @@
+requests
+os
+bs4
+random
+telebot
+pycountry
+time
+faker
+re
