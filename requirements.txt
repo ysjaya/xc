@@ -1,8 +1,5 @@
 requests
 bs4
-random
-telebot
-pycountry
-time
-faker
-re
+pyrogram
+tgcrypto
+pip
